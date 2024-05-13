@@ -1,7 +1,7 @@
 {
-    "name": "SHUKLA-MUSIC",
+    "name": "MR-MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/ed0b0c4bdba0e5edae53c.jpg",
+    "logo": "https://telegra.ph/file/30ed781828716e7cc6d9b.jpg",
     "keywords": [
     "python3",
     "telegram",
