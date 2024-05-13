@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://graph.org/file/c09d3c38d63265a73968a.jpg">
+  <img src="https://telegra.ph/file/ad55b5231cf9b81f6161b.jpg">
 </p>
 
 
@@ -26,4 +26,4 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/INDIANCODERS-1/SHUKLA-MUSIC"> <img src="https://graph.org/file/ae4827c40dd834ad0b925.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Rajatraj4415/RaJ-Musiccc"> <img src="https://graph.org/file/ae4827c40dd834ad0b925.jpg" width="520" height="198.45"/></a></p>
