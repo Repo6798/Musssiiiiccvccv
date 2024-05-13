@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID","24932120"))
+API_HASH = getenv("API_HASH","b16b8704b5c839ed24f4ed5824978a3b")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN","6665199842:AAEhkoJhonDf8G0zTPOj5D_sTUzucGmFq5g")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","MRtechHUBiD")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "IDK")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MR_AlexaMusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "DEVIL")
+BOT_NAME = getenv("BOT_NAME" , "ALEXA MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "IDK")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Tgzonee")
 # ---------------------------------------------------------
 
 
