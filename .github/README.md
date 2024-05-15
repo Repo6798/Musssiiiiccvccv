@@ -25,5 +25,5 @@
 <h3> 𝗡𝗜𝗖𝗛𝗘 𝗛𝗘𝗥𝗢𝗞𝗨 𝗞𝗘 𝗕𝗨𝗧𝗧𝗢𝗡 𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗔𝗥 𝗟𝗘 🤧 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Repo6798/Musssiiiiccvccv"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
